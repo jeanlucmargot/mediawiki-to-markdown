@@ -32,6 +32,13 @@ http://johnmacfarlane.net/pandoc/installing.html
 
 `php composer.phar install`
 
+This command results in the following error message:
+> Composer could not find a composer.json file in /home/jlm/aux/src
+> To initialize a project, please create a composer.json file as described in the https://getcomposer.org/ "Getting Started" section
+
+In addition, there are no instructions on how to create composer.json file in the "Getting Started" section of getcomposer.org.
+Can you please post an example composer.json file?  Thank you.
+
 
 ## Run
 
